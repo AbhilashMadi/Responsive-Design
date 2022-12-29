@@ -16,28 +16,28 @@
 <thead>
 <tbody>
 <tr>
-<td>Mboiel</td><td>360 x 640</td>
+<td>1️⃣</td><td>Mboiel</td><td>360 x 640</td>
 </tr>
 <tr>
-<td>Mobiel</td><td>375 x 667</td>
+<td>2️⃣</td><td>Mobiel</td><td>375 x 667</td>
 </tr>
 <tr>
-<td>Mobile</td><td>360 x 720</td>
+<td>3️⃣</td><td>Mobile</td><td>360 x 720</td>
 </tr>
 <tr>
-<td>iPhone X</td><td>375 x 812</td>
+<td>4️⃣</td><td>iPhone X</td><td>375 x 812</td>
 </tr>
 <tr>
-<td>Pixel 2</td><td>441 x 731</td>
+<td>5️⃣</td><td>Pixel 2</td><td>441 x 731</td>
 </tr>
 <tr>
-<td>Tablet</td><td>768 x 1024</td>
+<td>6️⃣</td><td>Tablet</td><td>768 x 1024</td>
 </tr>
 <tr>
-<td>Laptop</td><td>1366 x 768</td>
+<td>7️⃣</td><td>Laptop</td><td>1366 x 768</td>
 </tr>
 <tr>
-<td>High-res</br>Latptop or desktop</td><td>1920 x 1080</td>
+<td>8️⃣</td><td>High-res</br>Latptop or desktop</td><td>1920 x 1080</td>
 </tr>
 </tbody>
 <tfoot>
