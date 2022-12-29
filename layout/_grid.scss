@@ -1,0 +1,23 @@
+.grid{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto auto;
+    gap: 40px;
+
+    @media(width>=900px){
+        grid-template-columns: 2fr 1fr;
+        grid-template-rows: auto;
+    }
+
+    &__main, &__aside{
+        padding:40px;
+    }
+
+    &__main{
+        background-color: rgb(0, 0, 177);
+    }
+
+    &__aside{
+        background-color: rgb(255, 95, 122);
+    }
+}
