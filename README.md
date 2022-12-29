@@ -46,7 +46,7 @@
 
 > Bootstrap uses following mediaquerys for the responsive diesign;
 
-```
+```css
 @medi (max-width: 575.98px){
     /*styles for the small screens goes here*/
 }
