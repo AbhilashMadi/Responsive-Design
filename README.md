@@ -1,4 +1,6 @@
-## Responsive Design with SCSS & SASS
+### Responsive Design with SCSS & SASS
+
+<hr/>
 
 - Variables 
 - Nesting
@@ -10,7 +12,9 @@
 - Importing
 - scss map
 
-> Best Responsive Design Breakpoints
+<hr/>
+
+### Common Responsive design Breakpoints
 
 <table>
 <thead>
@@ -44,7 +48,9 @@
 </tbody>
 </table>
 
-> Bootstrap uses following mediaquerys for the responsive diesign;
+<hr/>
+
+### Bootstrap uses following Breakpoints
 
 ```css
 @media (max-width: 575.98px){
