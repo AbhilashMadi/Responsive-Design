@@ -8,6 +8,7 @@
 - Operators
 - Extending
 - Importing
+- scss map
 
 > Best Responsive Design Breakpoints
 
@@ -42,3 +43,27 @@
 </tr>
 </tbody>
 </table>
+
+> Bootstrap uses following mediaquerys for the responsive diesign;
+
+```
+@medi (max-width: 575.98px){
+    /*styles for the small screens goes here*/
+}
+
+@media (min-width: 576px) and (max-width: 767.98px){
+    /*styles for medium screens go here*/
+}
+
+@media (min-width: 768px) and (max-width: 991.98px){
+    /*styles for extra-large screens go here*/
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px){
+    /*styles for extra-large screens go here*/
+}
+
+@media (min-width: 1200px){
+    /*styles for extra-extra-large screnns go here*/
+}
+```

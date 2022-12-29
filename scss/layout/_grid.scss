@@ -1,10 +1,14 @@
+@use "../utils/breakpoints" as u;
+
 .grid{
     display: grid;
     grid-template-columns: 1fr;
     grid-template-rows: auto auto;
     gap: 40px;
+    width: min(100% - 40px,1000px);
+    margin-inline: auto;
 
-    @media(width>=900px){
+    @include u.breakpoint-up(large){
         grid-template-columns: 2fr 1fr;
         grid-template-rows: auto;
     }
@@ -19,5 +23,8 @@
 
     &__aside{
         background-color: rgb(255, 95, 122);
+        @include u.breakpoint-down(medium){
+            text-align: center;
+        }
     }
 }

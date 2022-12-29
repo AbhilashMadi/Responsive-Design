@@ -2,5 +2,6 @@
 @forward "./typography";
 @forward "./colors";
 
-@forward "../../layout/grid";
-@forward "../../layout/layout";
+@forward "../layout/grid";
+@forward "../layout/layout";
+@forward "../utils/breakpoints";
