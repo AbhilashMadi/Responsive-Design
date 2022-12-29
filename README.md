@@ -9,14 +9,15 @@
 - Extending
 - Importing
 
+> Best Responsive Design Breakpoints
+
 <table>
-<thead><tr><th>Best Responsive Design Breakpoints</th></tr></thead>
 <thead>
-<tr><th>no<th><th>Device</th><th>Width</td>
-<thead>
+<tr><th>no</th><th>Device</th><th>Width</th>
+</thead>
 <tbody>
 <tr>
-<td>1️⃣</td><td>Mboiel</td><td>360 x 640</td>
+<td>1️⃣</td><td>Mobile</td><td>360 x 640</td>
 </tr>
 <tr>
 <td>2️⃣</td><td>Mobiel</td><td>375 x 667</td>
@@ -40,6 +41,4 @@
 <td>8️⃣</td><td>High-res</br>Latptop or desktop</td><td>1920 x 1080</td>
 </tr>
 </tbody>
-<tfoot>
-</tfoot>
 </table>
